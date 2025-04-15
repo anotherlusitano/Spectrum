@@ -1,14 +1,7 @@
 # Welcome to Spectrum Obsidian Theme 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=braweria.Spectrum)   [![Twitter: braweria](https://img.shields.io/twitter/follow/braweria.svg?style=social)](https://twitter.com/braweria)  
-![Last Commit](https://img.shields.io/github/last-commit/braweria/Spectrum?style=for-the-badge) [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen?style=for-the-badge)](https://github.com/Braweria/Spectrum/wiki)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-orange?style=for-the-badge)](https://github.com/Braweria/Spectrum/graphs/commit-activity)
-[![License: MIT](https://img.shields.io/github/license/Braweria/Spectrum?style=for-the-badge)](https://github.com/Braweria/Spectrum/blob/master/LICENSE)   
 
-⚠️  
-⚠️ This theme is no longer maintained by me, but kept open for anyone to submit PRs for fixes and improvements.  
-⚠️  
-
-Spectrum is a theme for Obsidian and is designed the way to boost productivity and to improve the App to the needs I am having at the time. As such styling decision are opinionated.
+> [!WARNING]
+> This theme is a fork of the [Spectrum theme](https://github.com/wiktoriavh/Spectrum) by [Wiktoria](https://github.com/wiktoriavh), with some improvements and fixes I've made.
 
 Spectrum is coming with a variaty of features, like different checkboxes and support for image styling. [Read more in the documentation.](https://github.com/Braweria/Spectrum/wiki)
 
