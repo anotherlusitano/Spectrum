@@ -29,7 +29,7 @@ const testingVaultPath = path.join(
   "themes",
 );
 
-const outOptions = options.production ? {outfile: "./obsidian.css"} : options.snippet ? {outdir: "./snippets"} : {outdir: testingVaultPath};
+const outOptions = options.production ? {outfile: "./theme.css"} : options.snippet ? {outdir: "./snippets"} : {outdir: testingVaultPath};
 
 const entrySettings = options.production ? ["./SCSS/Spectrum.scss"] : options.snippet ? createSnippetArray() : {"spectrum-testing": "./SCSS/Spectrum.scss"};
 
