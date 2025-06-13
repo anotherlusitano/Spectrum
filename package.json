@@ -1,22 +1,23 @@
 {
-  "name": "spectrum",
+  "name": "spectrumplus",
   "version": "1.0.0",
-  "description": "An Obsidian Theme",
-  "author": "Wiktoria Mielcarek",
+  "description": "An improved version of the Spectrum Theme for Obsidian",
+  "author": "João Ribeiro",
+  "originalAuthor": "Wiktoria Mielcarek",
   "license": "MIT",
-  "homepage": "https://braweria.de",
   "type": "module",
   "scripts": {
     "build": "node esbuild.js production",
     "dev": "node esbuild.js development",
-    "snippet": "node esbuild.js snippets"
+    "snippet": "node esbuild.js snippets",
+    "version": "node version-bump.mjs && git add manifest.json versions.json"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Braweria/Spectrum.git"
+    "url": "git+https://github.com/anotherlusitano/SpectrumPlus.git"
   },
   "bugs": {
-    "url": "https://github.com/Braweria/Spectrum/issues"
+    "url": "https://github.com/anotherlusitano/SpectrumPlus/issues"
   },
   "dependencies": {
     "dotenv": "^16.0.0",
